@@ -1,3 +1,7 @@
-console.log('dynamically loaded');
+class MainClass {
+	constructor() {
+		console.log('MainClass: constructor');
+	}
+}
 
-export default {};
+export default new MainClass();

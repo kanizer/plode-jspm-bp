@@ -1,4 +1,8 @@
+# os/project files
 *.DS_Store
 .project
+
+# directories
 node_modules
 jspm_packages
+deploy
