@@ -1,6 +1,7 @@
 # os/project files
 *.DS_Store
 .project
+package-lock.json
 
 # directories
 node_modules
